@@ -1,7 +1,7 @@
-# PluginTemplate
+## 转载说明
+作者源码地址：https://github.com/beerik94/NormalBossBags
 
-This repository acts as a baseline plugin to allow you to quickly and easily create new TShock plugins.
-
-# Plugin Development
-
-For more information on TShock plugin development feel free to visit the [TShock repository](https://github.com/Pryaxis/TShock), the [TShock documentation](https://ikebukuro.tshock.co), the [TShock ReadMe](https://tshock.readme.io/docs/) or the official [TShock Discord](https://discord.com/invite/Cav9nYX).
+## 使用方法
+让普通模式的BOSS掉宝藏袋  
+将.dll文件放入服务器的ServerPlugins文件夹即可  
+仅影响普通难度地图，如果启用了专家或大师，则不执行任何操作。  
